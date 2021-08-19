@@ -1,13 +1,19 @@
 <h1 align="center">Hi 👋, I'm Yan</h1>
-<h3 align="center">I'm a Frontend Developer, also inspired by UI/UX</h3>
 
+<h3>I'm a Frontend Developer, also inspired by UI/UX</h3>
+
+<img align="right" alt="gif" src="https://user-images.githubusercontent.com/13290188/129992928-a2cd583b-7ba0-4cec-ae24-2d65ec1cc81b.gif" width="450">
+<p align="left">
+  
 - 🔭 I’m currently working on **freelance**
 
 - 🌱 I’m currently learning **JavaScript and React.js on Hexlet.io, also bits of Node.js and Ruby on Rails**
 
 - 📫 How to reach me **yanlogans@gmail.com**
 
-- ⚡ Fun fact **I'm queer :)**
+- ⚡ Fun fact **I'm queer af :)**
+ 
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
