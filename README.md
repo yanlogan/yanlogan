@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yan</h1>
+<h1>Hello there 👋, I'm Yan</h1>
 
 <h3>I'm a Frontend Developer, also inspired by UI/UX</h3>
 
