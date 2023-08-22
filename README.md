@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/yanlogans" target="blank"><img src="https://img.shields.io/twitter/follow/yanlogans?logo=twitter&style=for-the-badge" alt="yanlogans" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript and React.js**
+- ⚛️ I’m currently working with **JavaScript and React.js**
 
 - 📫 How to reach me **yanlogans@gmail.com**
 
