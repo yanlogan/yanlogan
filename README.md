@@ -8,7 +8,7 @@
 
 - ⚛️ I’m currently working with **JavaScript and React.js**
 
-- 📫 How to reach me **yanlogans@gmail.com**
+- 📫 Feel free to reach out to me @ **yanlogans@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
